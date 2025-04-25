@@ -1,0 +1,43 @@
+{
+  "itemid": "minecraft:skull",
+  "displayname": "§aSmall Fishing Sack",
+  "nbttag": "{HideFlags:254,SkullOwner:{Id:\"6d4dea59-c4bc-3fbb-89d3-c76e48ab21c7\",Properties:{textures:[0:{Value:\"ewogICJ0aW1lc3RhbXAiIDogMTU5MTEwNzM5NTcyOSwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzRmYmM3N2QyN2RhYjEwZGU1YWJmOWQwYmNjNDcxOThmOTIzYjBlNmMxNzlhM2MzOTgzZTc3ZjEyZjdjMDMzZSIKICAgIH0KICB9Cn0\u003d\"}]}},display:{Lore:[0:\"§7Item pickups go directly into your\",1:\"§7sacks.\",2:\"\",3:\"§7§7Items: §aAgarimoo Tongue§7, §aBlue Shark Tooth§7, §aChum§7, §aClay§7,\",4:\"§7§aClownfish§7, §aGlowing Mushroom§7, §aInk Sac§7, §aLily Pad§7, §aNurse\",5:\"§aShark Tooth§7, §aPrismarine Crystals§7, §aPrismarine Shard§7,\",6:\"§7§aPufferfish§7, §aRaw Fish§7, §aRaw Salmon§7, §aShark Fin§7, §aSponge§7,\",7:\"§7§aTiger Shark Tooth§7, §aWorm Membrane\",8:\"\",9:\"§7Capacity: §e2,240 per item\",10:\"§8Sacks sum their capacity.\",11:\"\",12:\"§eRight Click to open sack!\",13:\"\",14:\"§a§lUNCOMMON\"],Name:\"§aSmall Fishing Sack\"},ExtraAttributes:{id:\"SMALL_FISHING_SACK\"}}",
+  "damage": 3,
+  "lore": [
+    "§7Item pickups go directly into your",
+    "§7sacks.",
+    "",
+    "§7§7Items: §aAgarimoo Tongue§7, §aBlue Shark Tooth§7, §aChum§7, §aClay§7,",
+    "§7§aClownfish§7, §aGlowing Mushroom§7, §aInk Sac§7, §aLily Pad§7, §aNurse",
+    "§aShark Tooth§7, §aPrismarine Crystals§7, §aPrismarine Shard§7,",
+    "§7§aPufferfish§7, §aRaw Fish§7, §aRaw Salmon§7, §aShark Fin§7, §aSponge§7,",
+    "§7§aTiger Shark Tooth§7, §aWorm Membrane",
+    "",
+    "§7Capacity: §e2,240 per item",
+    "§8Sacks sum their capacity.",
+    "",
+    "§eRight Click to open sack!",
+    "",
+    "§a§lUNCOMMON"
+  ],
+  "recipe": {
+    "A1": "ENCHANTED_PUFFERFISH:2",
+    "A2": "ENCHANTED_PUFFERFISH:2",
+    "A3": "ENCHANTED_PUFFERFISH:2",
+    "B1": "ENCHANTED_PUFFERFISH:2",
+    "B2": "ENCHANTED_LEATHER:1",
+    "B3": "ENCHANTED_PUFFERFISH:2",
+    "C1": "ENCHANTED_PUFFERFISH:2",
+    "C2": "ENCHANTED_PUFFERFISH:2",
+    "C3": "ENCHANTED_PUFFERFISH:2"
+  },
+  "internalname": "SMALL_FISHING_SACK",
+  "crafttext": "Requires: Pufferfish V",
+  "clickcommand": "viewrecipe",
+  "modver": "",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Fishing_Sack",
+    "https://wiki.hypixel.net/Small_Fishing_Sack"
+  ]
+}

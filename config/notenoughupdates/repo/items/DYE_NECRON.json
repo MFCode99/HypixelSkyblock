@@ -1,0 +1,23 @@
+{
+  "itemid": "minecraft:skull",
+  "displayname": "§6Necron Dye",
+  "nbttag": "{HideFlags:254,SkullOwner:{Id:\"8af162fc-03df-32ad-a2da-8268ab53047f\",Properties:{textures:[0:{Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxNjk2Mjg0ODkxMywKICAicHJvZmlsZUlkIiA6ICIyYjcyZWYyYWUzMmQ0Zjc1OGEyMThlMDI4MTViYmNjZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ2b2xrb2RhZl82MyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hZmEwZWU2ZWQ1ZDUwZGU5ODAxY2E3YjQ0ZDQ2OWM2NjZlOTZkNjZjZDI0MTNlY2U5Y2I2N2ZiZDM1NjlkZjYwIgogICAgfQogIH0KfQ\u003d\u003d\"}]}},display:{Lore:[0:\"§7§8Combinable in Anvil\",1:\"\",2:\"§7Changes the color of an armor piece\",3:\"§7to §6#E7413C§7!\",4:\"\",5:\"§5§lEPIC DYE\"],Name:\"§6Necron Dye\"},ExtraAttributes:{id:\"DYE_NECRON\"}}",
+  "damage": 3,
+  "lore": [
+    "§7§8Combinable in Anvil",
+    "",
+    "§7Changes the color of an armor piece",
+    "§7to §6#E7413C§7!",
+    "",
+    "§5§lEPIC DYE"
+  ],
+  "internalname": "DYE_NECRON",
+  "crafttext": "",
+  "clickcommand": "",
+  "modver": "",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Necron_Dye",
+    "https://wiki.hypixel.net/Necron_Dye"
+  ]
+}

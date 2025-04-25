@@ -1,0 +1,54 @@
+14:26:38 Trying to load config from config\skyhanni\config.json
+14:26:38 load-config-now
+14:26:40 Loaded config from file
+14:26:40 Trying to load sacks from config\skyhanni\sacks.json
+14:26:40 Setting sacks to be blank as it did not exist. It will be saved once something is written to it
+14:26:40 Trying to load friends from config\skyhanni\friends.json
+14:26:40 load-friends-now
+14:26:40 Loaded friends from file
+14:26:40 Trying to load known_features from config\skyhanni\known_features.json
+14:26:40 load-known_features-now
+14:26:40 Loaded known_features from file
+14:26:40 Trying to load jacob_contests from config\skyhanni\jacob_contests.json
+14:26:40 load-jacob_contests-now
+14:26:40 Loaded jacob_contests from file
+14:26:40 Trying to load visual_words from config\skyhanni\visual_words.json
+14:26:40 Setting visual_words to be blank as it did not exist. It will be saved once something is written to it
+14:27:16 saveConfig: Updated known feature flags
+14:27:16 Saving known_features file
+14:27:40 saveConfig: auto-save-60s
+14:27:40 Saving config file
+14:28:40 saveConfig: auto-save-60s
+14:28:40 Saving config file
+14:29:40 saveConfig: auto-save-60s
+14:29:40 Saving config file
+14:30:21 saveConfig: Save contests
+14:30:21 Saving jacob_contests file
+14:30:40 saveConfig: auto-save-60s
+14:30:40 Saving config file
+14:31:40 saveConfig: auto-save-60s
+14:31:40 Saving config file
+14:32:40 saveConfig: auto-save-60s
+14:32:40 Saving config file
+14:33:40 saveConfig: auto-save-60s
+14:33:40 Saving config file
+14:33:44 saveConfig: close-gui
+14:33:44 Saving config file
+14:34:40 saveConfig: auto-save-60s
+14:34:40 Saving config file
+14:34:50 saveConfig: close-gui
+14:34:50 Saving config file
+14:35:09 saveConfig: close-gui
+14:35:09 Saving config file
+14:35:40 saveConfig: auto-save-60s
+14:35:40 Saving config file
+14:36:18 saveConfig: close-gui
+14:36:18 Saving config file
+14:36:40 saveConfig: auto-save-60s
+14:36:40 Saving config file
+14:37:40 saveConfig: auto-save-60s
+14:37:40 Saving config file
+14:38:40 saveConfig: auto-save-60s
+14:38:40 Saving config file
+14:39:00 saveConfig: shutdown-hook
+14:39:00 Saving config file

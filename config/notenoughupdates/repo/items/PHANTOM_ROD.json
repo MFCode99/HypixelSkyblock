@@ -1,0 +1,29 @@
+{
+  "itemid": "minecraft:fishing_rod",
+  "displayname": "§6Phantom Rod",
+  "nbttag": "{Unbreakable:1b,HideFlags:254,display:{Lore:[0:\"§7Damage: §c+200\",1:\"§7Strength: §c+125\",2:\"§7Fishing Speed: §a+100\",3:\" §8[§8⚔§8] §8[§8⚔§8]\",4:\"\",5:\"§6Ability: Phantom Impel  §e§lLEFT CLICK\",6:\"§7Terrify hooked enemies pushing them\",7:\"§7away and dealing massive damage.\",8:\"\",9:\"§7§8This item can be reforged!\",10:\"§7§4❣ §cRequires §aFishing Skill 21§c.\",11:\"§6§lLEGENDARY FISHING WEAPON\"],Name:\"§6Phantom Rod\"},ExtraAttributes:{id:\"PHANTOM_ROD\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Damage: §c+200",
+    "§7Strength: §c+125",
+    "§7Fishing Speed: §a+100",
+    " §8[§8⚔§8] §8[§8⚔§8]",
+    "",
+    "§6Ability: Phantom Impel  §e§lLEFT CLICK",
+    "§7Terrify hooked enemies pushing them",
+    "§7away and dealing massive damage.",
+    "",
+    "§7§8This item can be reforged!",
+    "§7§4❣ §cRequires §aFishing Skill 21§c.",
+    "§6§lLEGENDARY FISHING WEAPON"
+  ],
+  "internalname": "PHANTOM_ROD",
+  "crafttext": "",
+  "clickcommand": "",
+  "modver": "",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixel-skyblock.fandom.com/wiki/Phantom_Rod",
+    "https://wiki.hypixel.net/Phantom_Rod"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "petMap": {
+    "0": {
+      "petType": "WITHER_SKELETON",
+      "rarity": "EPIC",
+      "petLevel": {
+        "currentLevel": 94,
+        "maxLevel": 100,
+        "expRequiredForNextLevel": 936700,
+        "expRequiredForMaxLevel": 18608500,
+        "expInCurrentLevel": 112539.0,
+        "expTotal": 1.1800839E7,
+        "percentageToNextLevel": 0.12014412
+      },
+      "petXpType": "mining",
+      "petItem": "PET_ITEM_FARMING_SKILL_BOOST_EPIC",
+      "skinVariantSelected": -1,
+      "candyUsed": 0
+    }
+  },
+  "selectedPet": 0,
+  "selectedPet2": -1,
+  "tamingLevel": 1,
+  "beastMultiplier": 0.0
+}
